@@ -4,6 +4,7 @@
 from turtle import *
 
 while True:
+
     penup()
     color("red")
     goto(0, -25)
